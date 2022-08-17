@@ -11,3 +11,4 @@ DEBUG = True
 
 # TODO IMPLEMENT DATABASE URL
 SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:toor@localhost:5432/udacityp1'
+SQLALCHEMY_TRACK_MODIFICATIONS = False
